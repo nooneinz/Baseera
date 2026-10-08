@@ -13,6 +13,8 @@
 ![UI](https://img.shields.io/badge/UI-العربية%20%7C%20English-5fd3b3)
 ![Made in](https://img.shields.io/badge/made%20in-Oman-f5a623)
 
+[**جرّب بصيرة الآن ←**](https://baseera-app.onrender.com)
+
 <br>
 
 <img src="assets/landing.jpg" alt="الصفحة الرئيسية لبصيرة" width="900">
@@ -21,7 +23,7 @@
 
 ---
 
-> **هذا المستودع تعريفي فقط.** لا يحتوي الشيفرة المصدرية ولا يتيح استخدام المنصة. للاطلاع على التجربة أو الشراكة، راجع قسم [التواصل](#التواصل).
+> **هذا المستودع تعريفي فقط** ولا يحتوي الشيفرة المصدرية. لتجربة المنصة زر الموقع: **[baseera-app.onrender.com](https://baseera-app.onrender.com)**. وللشراكة أو التجربة الميدانية راجع قسم [التواصل](#التواصل).
 
 ## مسابقة «هندسها بالذكاء الاصطناعي»
 
@@ -107,6 +109,7 @@
 
 ## التواصل
 
+- الموقع: [baseera-app.onrender.com](https://baseera-app.onrender.com)
 - واتساب: +968 99323445
 - إنستغرام: [@baseera.ai0](https://www.instagram.com/baseera.ai0)
 
@@ -126,4 +129,4 @@
 
 **Competition:** Baseera took part in the "Engineered with AI" competition at Madar, in cooperation with Oman's Ministry of Transport, Communications and Information Technology.
 
-**Status:** MVP: the platform works and is being tested. This repository is a showcase only: it contains no source code and does not grant any right to use the software. For pilots or partnerships, see [التواصل](#التواصل).
+**Status:** MVP: the platform works and is being tested. This repository is a showcase only: it contains no source code and does not grant any right to use the software. Try the live platform at [baseera-app.onrender.com](https://baseera-app.onrender.com). For pilots or partnerships, see [التواصل](#التواصل).
